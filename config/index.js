@@ -10,10 +10,10 @@ export const config = {
     APP_SECRET: "a61164626269f7c2f0953de98b922185",
 
     // 模板消息id
-    TEMPLATE_ID: "hl_YJL2-048ttcbui7BCHHrqQrk8fY8uTeNy2it1gzg",
+    TEMPLATE_ID: "Wuxx37_XGmVQ2XwWJ9-GKtP6FOb2YJMP269lfzOGbuI",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "hl_YJL2-048ttcbui7BCHHrqQrk8fY8uTeNy2it1gzg",
+    CALLBACK_TEMPLATE_ID: "Wuxx37_XGmVQ2XwWJ9-GKtP6FOb2YJMP269lfzOGbuI",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     // [{
@@ -64,9 +64,9 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2012-11-28",
     // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    MARRY_DATE: "2020-9-1",
 
 
     /** 每日一言 */
@@ -83,8 +83,8 @@ export const config = {
 // 天气：{{weather.DATA}}  
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
-// 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们结婚的第{{marry_day.DATA}}天
+// 今天是我们认识的第{{love_day.DATA}}天
+// 今天也是我想打你的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
